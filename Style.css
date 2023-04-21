@@ -1,0 +1,22 @@
+.underline{
+    height:6px;
+    width:70px;
+    background-color: black;
+    margin:auto;
+}
+#app{
+    text-align: center;
+    background-color: aqua;
+
+}
+#Game{
+    text-align: center;
+    background-color: aquamarine;
+}
+#Chatbox{
+    text-align: center;
+    background-color: blue;
+}
+body{
+    text-align: center;
+}
